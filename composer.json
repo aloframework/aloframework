@@ -1,0 +1,31 @@
+{
+  "name": "aloframework/aloframework",
+  "description": "AloFramework is an incredibly lightweight and flexible MVC framework for PHP.",
+  "prefer-stable": true,
+  "type": "project",
+  "license": "GPL-3.0+",
+  "homepage": "https://github.com/aloframework/aloframework",
+  "keywords": [
+    "PHP",
+    "5.4",
+    "framework",
+    "MVC",
+    "lightweight"
+  ],
+  "authors": [
+    {
+      "name": "Art",
+      "email": "a.molcanovas@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/aloframework/aloframework/issues"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "4.7.3",
+    "apigen/apigen": "2.8.0",
+    "squizlabs/php_codesniffer": "2.3.2",
+    "phpmd/phpmd": "2.2.3"
+  }
+}
