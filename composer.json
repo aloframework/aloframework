@@ -21,7 +21,7 @@
     }
   ],
   "require": {
-    "aloframework/core": "^0.1"
+    "aloframework/core": "^0.1.1"
   },
   "support": {
     "issues": "https://github.com/aloframework/aloframework/issues"
