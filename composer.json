@@ -20,10 +20,11 @@
       "homepage": "https://github.com/Alorel"
     }
   ],
-  "require": {
-    "aloframework/core": "^0.1.1"
-  },
   "support": {
     "issues": "https://github.com/aloframework/aloframework/issues"
+  },
+  "require": {
+    "aloframework/log": "^0.1.3",
+    "aloframework/handlers": "^0.1.0"
   }
 }
