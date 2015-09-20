@@ -24,7 +24,7 @@
     "issues": "https://github.com/aloframework/aloframework/issues"
   },
   "require": {
-    "aloframework/log": "^0.1.4",
-    "aloframework/handlers": "^0.1.1"
+    "aloframework/log": "^0.1.6",
+    "aloframework/handlers": "^0.2"
   }
 }
