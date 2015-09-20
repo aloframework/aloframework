@@ -25,6 +25,7 @@
   },
   "require": {
     "aloframework/log": "^1.0.2",
-    "aloframework/handlers": "^1.0.3"
+    "aloframework/handlers": "^1.0.3",
+    "aloframework/email": "^1.0"
   }
 }
