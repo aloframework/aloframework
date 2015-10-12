@@ -1,31 +1,33 @@
 {
-  "name": "aloframework/aloframework",
-  "description": "AloFramework is an incredibly lightweight and flexible MVC framework for PHP.",
-  "prefer-stable": true,
-  "type": "project",
-  "license": "GPL-3.0+",
-  "homepage": "https://github.com/aloframework/aloframework",
-  "keywords": [
-    "PHP",
-    "5.4",
-    "framework",
-    "MVC",
-    "lightweight"
-  ],
-  "authors": [
-    {
-      "name": "Art",
-      "email": "a.molcanovas@gmail.com",
-      "role": "Developer",
-      "homepage": "https://github.com/Alorel"
-    }
-  ],
-  "support": {
-    "issues": "https://github.com/aloframework/aloframework/issues"
-  },
-  "require": {
-    "aloframework/log": "^1.0",
-    "aloframework/handlers": "^1.0",
-    "aloframework/email": "^1.0"
-  }
+   "name": "aloframework/aloframework",
+   "description": "AloFramework is an incredibly lightweight and flexible MVC framework for PHP.",
+   "prefer-stable": true,
+   "type": "project",
+   "license": "GPL-3.0+",
+   "homepage": "https://github.com/aloframework/aloframework",
+   "keywords": [
+      "PHP",
+      "5.4",
+      "framework",
+      "MVC",
+      "lightweight"
+   ],
+   "authors": [
+      {
+         "name": "Art",
+         "email": "a.molcanovas@gmail.com",
+         "role": "Developer",
+         "homepage": "https://github.com/Alorel"
+      }
+   ],
+   "support": {
+      "issues": "https://github.com/aloframework/aloframework/issues"
+   },
+   "require": {
+      "aloframework/common": "^1.0",
+      "aloframework/log": "^1.0",
+      "aloframework/handlers": "^1.0",
+      "aloframework/email": "^1.0",
+      "aloframework/config": "^1.0"
+   }
 }
